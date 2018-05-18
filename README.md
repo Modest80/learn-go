@@ -6,7 +6,7 @@ http://www.williamspublishing.com/Books/978-5-8459-2051-5.html
 Для выполнения примеров нужна версия Go не ниже 1.5.
 Проверить можно командой:
 
-$ go version
+>$ go version
 
 Пример ответа:
 >go version go1.10.1 windows/amd64
